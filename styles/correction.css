@@ -1,0 +1,148 @@
+/* Header styles */
+.header-section{
+      background-image: url(/images/banner/banner3.png);
+      background-size: 100%;
+      background-repeat: no-repeat;
+      height: 600px;
+      padding-left: 600px;
+      padding-right: 80px;
+      padding-top: 60px;
+      text-align: right;
+      margin-bottom: 40px;
+}
+.header-title{
+      font-size: 55px;
+      color: white;
+}
+.header-description{
+    color: white;
+    font-size: 14px;
+   
+}
+.btn-primary{
+    font-size: 20px;
+    color: #005FAC;
+    text-align: center;
+    padding-left: 8px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    padding-right: 6px;
+}
+
+/* section styles */
+
+.section-title{
+    display:flex ;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 0px;
+  padding-left: 80px;
+  padding-right: 120px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: lightblue;
+}
+    .main-img{
+      width: 500px;
+      height: 600px;
+}
+.section-sub-title{
+  font-size: 50px;
+  padding-top: 80px;
+}
+.section-description{
+  font-size: 15px;
+  color: #005FAC;
+}
+.section-list{
+  font-size: 22px;
+  color:orangered;
+}
+
+/* main body styles */
+.main-body{
+  padding-left:200px;
+  padding-right:200px;
+  padding-top:20px;
+  padding-bottom:50px;
+  display:flex;
+  gap:105px;
+}
+.main-description{
+color: #737272;
+}
+.main-section{
+  height: 250px;
+  background-image:url(/images/watch.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-left: 50px;
+  padding-right: 500px;
+  padding-top: 50px;
+ justify-items: center;
+ margin-bottom: 40px;
+}
+.plan{
+  font-size: 50px;
+  text-align: center;
+}
+.always{
+  font-size: 50px;
+  color: white;
+}
+  .main-btn{
+    font-size: 20px;
+    color: #005FAC;
+    text-align: center;
+    padding-left: 8px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    padding-right: 6px;
+  }
+  /* footer styles */
+  .footer-div{
+    display: flex;
+    gap: 60px;
+    height: 400px;
+    padding-left:60px ;
+    padding-top:60px ;
+    padding-bottom:60px ;
+    padding-right: 60px;
+    color: aliceblue;
+    background-color: black;
+
+  }
+  .footer{
+    padding-left:60px ;
+    padding-top:60px ;
+    padding-bottom:60px ;
+    padding-right: 60px;
+  }
+  .subscribe{
+    padding-top:60px ;
+    padding-bottom:60px ;
+    padding-right: 60px;
+  }
+  .btn{
+    padding-top:10px ;
+    padding-bottom:10px ;
+    padding-right: 80px;
+    padding-left: 5px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .btns{
+    padding-top:10px ;
+    padding-bottom:10px ;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+    background: #005FAC;
+    color: white;
+  }
+  .footer-description{
+    font-size: 12px;
+    text-align:left;
+    padding-right: 90px;
+  }
+  
